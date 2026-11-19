@@ -1,3 +1,4 @@
+
 package ru.diplom.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;

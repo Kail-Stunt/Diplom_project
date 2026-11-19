@@ -1,3 +1,4 @@
+
 package ru.diplom.service;
 
 import org.springframework.security.core.Authentication;

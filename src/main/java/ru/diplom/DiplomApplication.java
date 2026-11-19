@@ -1,3 +1,4 @@
+
 package ru.diplom;
 
 import org.springframework.boot.SpringApplication;

@@ -1,3 +1,4 @@
+
 package ru.diplom.dto.response;
 
 public class AdResponse {

@@ -1,3 +1,4 @@
+
 package ru.diplom.exception;
 
 import org.springframework.http.HttpStatus;

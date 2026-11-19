@@ -1,3 +1,4 @@
+
 package ru.diplom.entity;
 
 import jakarta.persistence.*;
